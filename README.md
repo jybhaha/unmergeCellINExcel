@@ -21,7 +21,7 @@
 
 查到openpyxl可以操纵数据库，从文档开始学起！！！！
 
-```
+```Python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
