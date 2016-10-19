@@ -21,6 +21,8 @@
 
 查到openpyxl可以操纵数据库，从文档开始学起！！！！
 
+经过一下午的折腾，终于稍有成效！
+
 ```Python
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
